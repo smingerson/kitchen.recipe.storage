@@ -1,0 +1,21 @@
+Meal: Lunch
+Nutrition:
+  Fiber: 8.0
+  Calories: 1.0
+  Sugar: 8.0
+  Protein: 8.0
+  Fat: 8.0
+  Carbs: 8.0
+  Sodium: 8.0
+Name: t
+Servings: {}
+Time:
+  Prep: 5.0
+  Cook: 10.0
+  Rest: 1.0
+Save: ~
+Prep: ~
+Ingredients: ~
+trigger: {}
+Source: t
+Tags: Testtag
